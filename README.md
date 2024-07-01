@@ -90,11 +90,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-Special thanks to the developers and maintainers of the Red-Black Tree data structure and algorithm resources that helped in the implementation of this project.
+Special thanks to the my fellow team partners Abdelrahman Ashraf, Mohammed Saker, Youssef Emad who took part in completing this project.
 
 ---
 
-For more information, please refer to the documentation or contact the repository maintainer.
+For more information, please refer to the documentation or contact me.
 
 ---
 
