@@ -84,10 +84,6 @@ This repository contains an implementation of a word dictionary using Red-Black 
 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bugs or feature requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to the my fellow team partners Abdelrahman Ashraf, Mohammed Saker, Youssef Emad who took part in completing this project.
