@@ -39,45 +39,8 @@ This repository contains an implementation of a word dictionary using Red-Black 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/rb-tree-dictionary.git
-   cd rb-tree-dictionary
-   ```
-
-2. Ensure you have the necessary dependencies installed. You can use `pip` for this:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-### Usage
-
-1. Load the dictionary from the provided `dictionary.txt` file:
-   ```sh
-   python load_dictionary.py
-   ```
-
-2. Insert a new word into the dictionary:
-   ```sh
-   python insert_word.py "newword"
-   ```
-
-3. Look up a word in the dictionary:
-   ```sh
-   python lookup_word.py "word"
-   ```
-
-4. Print tree height:
-   ```sh
-   python print_tree_height.py
-   ```
-
-5. Print black height:
-   ```sh
-   python print_black_height.py
-   ```
-
-6. Print tree size:
-   ```sh
-   python print_tree_size.py
+   git clone https://github.com/Hossameldin24/RB_Tree_Dictionary
+   cd RB_Tree_Dictionary
    ```
 
 ## Contributing
